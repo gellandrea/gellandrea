@@ -6,5 +6,6 @@ Hello! My name is Tameka and I am an aspiring web developer. My passion is creat
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="icons/html5/html5-original-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
 </div>
